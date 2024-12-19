@@ -13,13 +13,13 @@ Now that I examined SVD and all it's various components, I computed the SVD of a
 This concluded the theory section, next I began a practical real-world analysis on SVD using Python to deconstruct an image into 3 channels of Red, Green, Blue and computed their best rank-k approximations. After computing their errors I outputted all values of k-approximations to visualize their effect in approximating a image:
 
 
-![Visualization of Best Rank-k Approximations](output/k_approx_images.png)
+![Visualization of Best Rank-k Approximations](https://github.com/theodoreli927/SVD-report/blob/main/output/hokie_cat_approx.png)
 
 Finally, I used SVD to also reconstruct a image:
 
-![Reconstructed Image 1](output/reconstructed_images.png)
-![Reconstructed Image 2](output/reconstructed_images_2.png)
-![Reconstructed Image 3](output/reconstructed_images_3.png)
+![Reconstructed Image 1](https://github.com/theodoreli927/SVD-report/blob/main/output/reconstructed_image_1.png)
+![Reconstructed Image 2](https://github.com/theodoreli927/SVD-report/blob/main/output/reconstructed_image_2.png)
+![Reconstructed Image 3](https://github.com/theodoreli927/SVD-report/blob/main/output/reconstructed_image_3.png)
 
 
 
